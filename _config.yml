@@ -11,12 +11,12 @@ collections:
 description: 'Blue Olive description goes here.
 
 '
-baseurl: ''
+baseurl: '/blueolive'
 url: http://tingansob.github.io/blueolive
 markdown: kramdown
 facebook:
   app_id: 
-logo: "../css/2016_style/img/icon-large.png"
+logo: "/css/2016_style/img/icon-large.png"
 social:
 - title: facebook
   url: https://www.facebook.com
