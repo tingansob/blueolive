@@ -1,0 +1,16 @@
+---
+title: Name
+date: 2016-07-17 00:00:00 Z
+categories:
+- 2016_speakers
+name: Name-2
+subtitle: Position
+layout: 2016_default
+modal-id: 1
+img: TBD.jpg
+thumbnail: TBD.jpg
+alt: Picture of TBD
+topic: Topic
+description: More Info
+---
+
